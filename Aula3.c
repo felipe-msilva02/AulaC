@@ -9,7 +9,4 @@ int main(int argc, char *argv[]) {
 	for(x=1;x<=10;x=x+1){
 		printf("%i x %i = %i\n",x,y,x*y);
 	}
-	
-	
-	
 }
